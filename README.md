@@ -72,12 +72,3 @@ Je suis passionné par l’informatique, le développement web et la cybersécur
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUSSEF_GHOUILA&show_icons=true&theme=radical&count_private=true)
-
----
-
-## 🔝 Top Contributed Repo
-[Nom du Repo](lien-du-repo)
