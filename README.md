@@ -60,6 +60,8 @@ Je suis passionné par l’informatique, le développement web et la cybersécur
 ![Nmap](https://img.shields.io/badge/Nmap-CC0000?style=for-the-badge) 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-EE7624?style=for-the-badge) 
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6C37?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 **Management Tools:**  
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) 
