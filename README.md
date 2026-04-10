@@ -1,7 +1,7 @@
 #  About Me
 👋 Bonjour, je m'appelle Youssef Ghouila. Passionné par l’informatique, le développement web et la cybersécurité, je suis actuellement étudiant en Master of Science à Epitech (promotion 2027). 👨‍🎓
 🎯 Aujourd’hui, je suis à la recherche d’une alternance en développement afin de renforcer mes compétences techniques, participer à des projets concrets et continuer à évoluer dans un environnement professionnel stimulant.
-💡 Mon objectif : progresser chaque jour, développer des solutions efficaces et me spécialiser progressivement en cybersécurité tout en restant performant en développement web.
+
 
 ---
 
